@@ -1,6 +1,6 @@
 # app
 
-A new Flutter project.
+This is an app which takes the expiry details fromm a packaged food via scanning (image to text) or by entering it manually, and notifies about the product(s) which is expiry in 2/3 days every 12 hours. This app is made using Flutter and Firebase for cloud computing.
 
 ## Getting Started
 
